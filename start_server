@@ -1,0 +1,10 @@
+#! /bin/bash
+/usr/bin/tmux new-session -d -s rhiannoncraft
+/usr/bin/tmux send-keys -t rhiannoncraft "cd ~/git/RhiannonCraft/" C-m
+/usr/bin/tmux send-keys -t rhiannoncraft "git pull" C-m
+/usr/bin/tmux send-keys -t rhiannoncraft "bash start_server.sh" C-m
+
+/usr/bin/tmux split-window -v
+/usr/bin/tmux send-keys -t rhiannoncraft "htop" C-m 
+/usr/bin/tmux rotate-window -D
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+cd ~/git/RhiannonCraft
+git checkout --orphan orphan
+git add -A
+git commit -m "clean"
+git branch -D master
+git branch -m master
+git push -f origin master
+git gc --aggressive --prune=all
+
