@@ -2,3 +2,6 @@
 [20:29:42] [User Authenticator #3/INFO]: UUID of player quadmx08 is bf32c3ec-ecdc-42ee-be83-dcec4c1ea438
 [20:29:43] [Server thread/INFO]: quadmx08[/98.214.137.148:54854] logged in with entity id 625 at (-241.30000001192093, 62.0, 245.69999998807907)
 [20:29:43] [Server thread/INFO]: quadmx08 joined the game
+[20:30:54] [Server thread/WARN]: quadmx08 moved too quickly! -41.19999998807907,2.0999984741210938,17.80000001192093
+[20:33:13] [Server thread/INFO]: quadmx08 lost connection: Disconnected
+[20:33:13] [Server thread/INFO]: quadmx08 left the game
