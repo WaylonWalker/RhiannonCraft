@@ -1,3 +1,4 @@
-[00:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5077ms or 101 ticks behind
-[14:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[22:56:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a55bbf8[id=<null>,name=quadmx08,properties={},legacy=false] (/98.214.137.148:51753) lost connection: Disconnected
+[20:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4889ms or 97 ticks behind
+[20:29:42] [User Authenticator #3/INFO]: UUID of player quadmx08 is bf32c3ec-ecdc-42ee-be83-dcec4c1ea438
+[20:29:43] [Server thread/INFO]: quadmx08[/98.214.137.148:54854] logged in with entity id 625 at (-241.30000001192093, 62.0, 245.69999998807907)
+[20:29:43] [Server thread/INFO]: quadmx08 joined the game
