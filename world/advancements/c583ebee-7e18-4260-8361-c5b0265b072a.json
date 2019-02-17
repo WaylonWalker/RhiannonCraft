@@ -612,10 +612,10 @@
       "minecraft:magma_cube": "2018-12-13 01:31:16 +0000",
       "minecraft:spider": "2018-12-01 18:57:11 +0000",
       "minecraft:zombie": "2018-11-24 23:47:15 +0000",
-      "minecraft:creeper": "2018-12-06 00:48:45 +0000",
       "minecraft:drowned": "2018-12-02 15:43:29 +0000",
-      "minecraft:evoker": "2019-01-25 19:03:16 +0000",
-      "minecraft:slime": "2018-12-07 00:28:37 +0000"
+      "minecraft:creeper": "2018-12-06 00:48:45 +0000",
+      "minecraft:slime": "2018-12-07 00:28:37 +0000",
+      "minecraft:evoker": "2019-01-25 19:03:16 +0000"
     },
     "done": false
   },
@@ -1080,14 +1080,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands_plateau": "2018-12-09 00:54:13 +0000",
-      "minecraft:forest": "2018-11-24 22:00:33 +0000",
       "minecraft:mountains": "2018-12-24 20:49:04 +0000",
+      "minecraft:forest": "2018-11-24 22:00:33 +0000",
+      "minecraft:badlands_plateau": "2018-12-09 00:54:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-01-13 16:14:17 +0000",
       "minecraft:badlands": "2018-12-09 00:42:04 +0000",
       "minecraft:beach": "2018-11-24 22:00:23 +0000",
-      "minecraft:river": "2018-11-24 23:50:04 +0000",
       "minecraft:lukewarm_ocean": "2018-12-28 23:36:46 +0000",
+      "minecraft:river": "2018-11-24 23:50:04 +0000",
       "minecraft:wooded_mountains": "2018-12-28 21:12:57 +0000",
       "minecraft:wooded_hills": "2018-12-02 14:32:16 +0000",
       "minecraft:stone_shore": "2019-02-02 19:04:37 +0000",
