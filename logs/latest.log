@@ -1,10 +1,20 @@
-[20:43:35] [User Authenticator #7/INFO]: UUID of player quadmx08 is bf32c3ec-ecdc-42ee-be83-dcec4c1ea438
-[20:43:35] [Server thread/INFO]: quadmx08[/98.214.137.148:61270] logged in with entity id 6719 at (-290.72594208109564, 19.0, 107.46164338122695)
-[20:43:35] [Server thread/INFO]: quadmx08 joined the game
-[20:47:20] [User Authenticator #8/INFO]: UUID of player WyattBubbyLee is c583ebee-7e18-4260-8361-c5b0265b072a
-[20:47:20] [Server thread/INFO]: WyattBubbyLee[/98.214.137.148:42230] logged in with entity id 11464 at (-243.69999998807907, 64.0, 247.30000001192093)
-[20:47:20] [Server thread/INFO]: WyattBubbyLee joined the game
-[20:49:26] [Server thread/INFO]: WyattBubbyLee lost connection: Disconnected
-[20:49:26] [Server thread/INFO]: WyattBubbyLee left the game
-[20:49:54] [Server thread/INFO]: quadmx08 lost connection: Disconnected
-[20:49:54] [Server thread/INFO]: quadmx08 left the game
+[16:50:09] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_181]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_181]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_181]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_181]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_181]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_181]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_181]
+	at so$2.run(SourceFile:110) [minecraft_server.1.13.2.jar:?]
+[16:50:10] [Server Shutdown Thread/INFO]: Stopping server
+[16:50:10] [Server Shutdown Thread/INFO]: Saving players
+[16:50:10] [Server Shutdown Thread/INFO]: Saving worlds
+[16:50:10] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[16:50:10] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[16:50:10] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
